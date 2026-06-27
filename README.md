@@ -46,7 +46,7 @@ Personal-portfolio/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/moin4159/Personal-portfolio-moin.git
+git clone https://github.com/moin4159/Personal-portfolio.git
 cd Personal-portfolio
 ```
 
