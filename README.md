@@ -2,7 +2,7 @@
 
 # 🚀 Moin Sayyad — Portfolio
 
-[![Live](https://img.shields.io/badge/Live-niladri1.vercel.app-black?style=for-the-badge&logo=vercel)](https://personal-portfolio-moin.vercel.app)
+[![Live](https://img.shields.io/badge/Live-personal--portfolio--moin.vercel.app-black?style=for-the-badge&logo=vercel)](https://personal-portfolio-moin.vercel.app)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
